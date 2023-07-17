@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi There, I'm Guilherme Corrêa 🤝
 
-<!--
-**guilherme100rs/guilherme100rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Current Stack
+- Main Linguage: `Javascript`
+- Backend: `Node.js`
+- Frontend:`Javascript` `HTML5` `CSS3`
+- Layout Design: `Figma`
+- Version Code Control: `Git & Github`
+- Tools: `VsCode`
 
-Here are some ideas to get you started:
+- # Contacts
+- [My Email](guilherme100rs@gmail.com)
+- [My Github](https://github.com/guilherme100rs/)
+- [My Linkedin](https://www.linkedin.com/in/guilhermecorreadev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
